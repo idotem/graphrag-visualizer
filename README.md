@@ -1,5 +1,6 @@
-# GraphRAG Visualizer - This is a fork with some custom changes from the original graphrag-visualizer(https://github.com/noworneverev/graphrag-visualizer)
+# GraphRAG Visualizer 
 
+### This is a fork with some custom changes from the original graphrag-visualizer
 👉 [GraphRAG Visualizer](https://noworneverev.github.io/graphrag-visualizer/)<br/>
 👉 [GraphRAG Visualizer Demo](https://www.youtube.com/watch?v=Hjx1iTZZtzw)
 
